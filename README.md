@@ -1,5 +1,4 @@
-# Data Scientist
-![](/assets/img/headshot_circle.jpeg)
+# AI Reasercher
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
