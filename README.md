@@ -42,17 +42,12 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-\item[ $\bullet$]	 Akhlaghi Z., Casolo C., Dolfi S., Khedri K., Pasifici E., On the character degree graph of solvable groups, \textit{Proc. Amer. Math. Soc.,} 146 (2018), 1505-1513. (\href{ https://doi.org/10.1090/proc/13879} {\color{blue}\underline{Link}})
-\item[ $\bullet$] Akhlaghi Z.,  Khedri K., Taeri B., Finite groups with $K_{5}$-free prime graphs, \textit{Comm. Algeb} 47(2019), 2577-2603. (\href{https://www.tandfonline.com/doi/abs/10.1080/00927872.2018.1501576}{\color{blue}\underline{Link}})
-\item[ $\bullet$] Dolfi S., Khedri Kh., Pacifici E., Group whose degree graph has three independent vertices, \textit{ J. Algebra,} 512 (2018), 66-80. (\href{https://doi.org/10.1016/j.jalgebra.2018.07.004}{\color{blue}\underline{Link}})
-\item[ $\bullet$]	Khedri K., Characterization of finite groups whose linear divisible character degrees, (\textit{ Preprint}).
-\item[ $\bullet$] Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (\textit{In Progress}).
-
-\item[$\bullet$]Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, (\href{https://arxiv.org/pdf/2404.08727v1})
+1. Akhlaghi Z., Casolo C., Dolfi S., Khedri K., Pasifici E., On the character degree graph of solvable groups, \textit{Proc. Amer. Math. Soc.,} 146 (2018), 1505-1513. ( https://doi.org/10.1090/proc/13879)
+2. Akhlaghi Z.,  Khedri K., Taeri B., Finite groups with $K_{5}$-free prime graphs, \textit{Comm. Algeb} 47(2019), 2577-2603. (https://www.tandfonline.com/doi/abs/10.1080/00927872.2018.1501576)
+3. Dolfi S., Khedri Kh., Pacifici E., Group whose degree graph has three independent vertices, \textit{ J. Algebra,} 512 (2018), 66-80. ({https://doi.org/10.1016/j.jalgebra.2018.07.004)
+4. Khedri K., Characterization of finite groups whose linear divisible character degrees, (\textit{ Preprint}).
+5.  Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (\textit{In Progress}).
+6.  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, (https://arxiv.org/pdf/2404.08727v1)
 
 - [Data Science Blog](https://medium.com/@shawhin)
