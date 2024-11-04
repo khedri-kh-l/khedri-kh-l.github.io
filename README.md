@@ -3,16 +3,7 @@
 
 
 ## Education
-\item \ressubheading{Isfahan University of Technology}{Isfahan, Iran}{Ph.D., Pure Mathematics,  GPA: 19.75/20 }{Sep 2012 - Sep 2018}
-\begin{itemize}
-%\item Supervisor: Dr. Bijan Taeri, Advisor: Dr. Zeinab Akhlaghi.
-\item  Ph.D. Thesis Title : \textbf{Character degree graph of finite groups.}
-\end{itemize}
-%************************************
-\item \ressubheading{Tarbiat Modares University}{Tehran, Iran}{MSc., Pure Mathematics, GPA: 17.07/20 }{Sep 2008 - Jan 2011}
-\begin{itemize}
-%\item Supervisor: Dr. Ali Iranmanesh
-\item MSc. Thesis Title: \textbf{The theory and application of Wiener index on trees and dendrimers.}
+
 - Ph.D., Mathematics |Isfahan University of Technology (_September 2018_)								       		
 - M.S., Mathematics	| Tarbiat Modares University (_January 2011_)	 			        		
 - B.S., Mathematics | Kashan University (_July 2006_)
