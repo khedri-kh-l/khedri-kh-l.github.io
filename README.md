@@ -1,6 +1,14 @@
-# AI Reasercher
 
+I am a mathematician and an artificial intelligence researcher. I have a Ph.D. in mathematics from Isfahan University of Technology, where I studied finite group theory. I also have a master's degree in mathematics from Tarbiat Modares University, where I worked on the chemical graph theory and Wiener index of graphs. I have been selected as an elite student by the National Elites Foundation of Iran and collaborated with researchers at the University of Florence.
+</p>
+<p>
+My research interests are graph machine learning, geometric deep learning, and natural language processing. 
+</p>
+<p>
+I am interested in applying mathematics to solve challenges in research areas related to real-world applications. I have worked on various projects in Computer Vision, NLP, and Graph Neural Network. Recently, I finished the investigation of pruning and quantization impact on graph neural networks. Pruning is a technique to reduce the complexity and improve the efficiency of neural networks by removing unnecessary parameters or connections
 
+## Research Interest:
+-  Graph Machine Learning, Geometric Deep Learning, Mathematical Molecular, AI Healthcare.
 
 ## Education
 
@@ -19,12 +27,12 @@
 
 ## Academic Experience
 
-- Editor}{ MLBook}{Reza Rawassizadeh}{2024}
-- Research Collaboration}{Boston University}{Boston, United States}{September 2023 - Present}
-- Postdoctoral Research Fellow INSF}{Isfahan University of Thechnology}{Isfahan, Iran}{May 2019 - May 2021}
-- Visiting Scholar}{University of Florence}{Florence, Italy}{April 2016 - Oct 2016}
-- Research Assistant}{ Amirkabir University of Technology}{Tehran, Iran}{Feb 2015 - Feb 2016}
-- Advising Experience}{Undergraduate Senior Thesis Advisor}{Isfahan University of Technology}{Sep 2019- Sep 2021}
+- Editor: MLBook,Reza Rawassizadeh.(2024)
+- Research Collaboration: Reza Rawassizadeh, Boston University, United States.(September 2023 - Present)
+- Postdoctoral Research Fellow INSF:Isfahan University of Thechnology,Isfahan, Iran.(May 2019 - May 2021)
+- Visiting Scholar: University of Florence,Italy. (April 2016 - Oct 2016)
+- Research Assistant: Amirkabir University of Technology, Iran.(Feb 2015 - Feb 2016)
+- Advising Experience: Undergraduate Senior Thesis Advisor, Isfahan University of Technology.(Sep 2019- Sep 2021)
   
 
  ## Teaching
@@ -42,17 +50,6 @@
 -  Guest Lecture:Group whose degree graph has three independent vertices,The $10^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran, Yazd University, Yazd, Iran(2018)
 -The wiener index calculation of Porphyrin, The $9^th$ annual Student Conference on Nanotechnology, Tarbiat Modares University,Tehran, Iran(2012)
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 
