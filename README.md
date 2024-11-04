@@ -4,14 +4,20 @@ I am a mathematician and an artificial intelligence researcher. I have a Ph.D. i
 <p>
 I am interested in applying mathematics to solve challenges in research areas related to real-world applications. I have worked on various projects in Computer Vision, NLP, and Graph Neural Network. Recently, I finished the investigation of pruning and quantization impact on graph neural networks. Pruning is a technique to reduce the complexity and improve the efficiency of neural networks by removing unnecessary parameters or connections
 
+
+
 ## Research Interest:
 -  Graph Machine Learning, Geometric Deep Learning, Mathematical Molecular, AI Healthcare.
+
+
 
 ## Education
 
 - Ph.D., Mathematics |Isfahan University of Technology (_September 2018_)								       		
 - M.S., Mathematics	| Tarbiat Modares University (_January 2011_)	 			        		
 - B.S., Mathematics | Kashan University (_July 2006_)
+
+
 
 ## Publications
 
@@ -21,6 +27,8 @@ I am interested in applying mathematics to solve challenges in research areas re
 4. Khedri K., Characterization of finite groups whose linear divisible character degrees, (Preprint).
 5.  Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (In Progress).
 6.  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, [Link](https://arxiv.org/pdf/2404.08727v1).
+
+
 
 ## Academic Experience
 
@@ -42,6 +50,8 @@ I am interested in applying mathematics to solve challenges in research areas re
 - Visiting Lecturer, Bushehr Islamic Azad University: Differential Equations. (Sep 2011- Jul 2012)
 
 
+ 
+ 
  ## Conference Presentations
 - Guest Lecture:On the character degree graph of solvable groups,The $9^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran,  Amirkabir  University of Technology, Tehran, Iran(2017)
 -  Guest Lecture:Group whose degree graph has three independent vertices,The $10^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran, Yazd University, Yazd, Iran(2018)
