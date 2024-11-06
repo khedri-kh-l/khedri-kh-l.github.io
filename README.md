@@ -17,12 +17,16 @@ I am interested in applying mathematics to solve challenges in research areas re
 
 ## Publications
 
-1. Akhlaghi Z., Casolo C., Dolfi S., Khedri K., Pasifici E., On the character degree graph of solvable groups, Proc. Amer. Math. Soc., 146 (2018), 1505-1513. [Link]( https://doi.org/10.1090/proc/13879)
-2. Akhlaghi Z.,  Khedri K., Taeri B., Finite groups with $K_{5}$-free prime graphs, Comm. Algeb., 47(2019), 2577-2603. [Link](https://www.tandfonline.com/doi/abs/10.1080/00927872.2018.1501576)
-3. Dolfi S., Khedri Kh., Pacifici E., Group whose degree graph has three independent vertices, J. Algebra., 512 (2018), 66-80. [Link](https://doi.org/10.1016/j.jalgebra.2018.07.004)
-4. Khedri K., Characterization of finite groups whose linear divisible character degrees, (Preprint).
-5.  Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (In Progress).
-6.  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, [Link](https://arxiv.org/pdf/2404.08727v1).
+-  Akhlaghi Z., Casolo C., Dolfi S., Khedri K., Pasifici E., On the character degree graph of solvable groups, Proc. Amer. Math. Soc., 146 (2018), 1505-1513. [Link]( https://doi.org/10.1090/proc/13879)
+- Akhlaghi Z.,  Khedri K., Taeri B., Finite groups with $K_{5}$-free prime graphs, Comm. Algeb., 47(2019), 2577-2603. [Link](https://www.tandfonline.com/doi/abs/10.1080/00927872.2018.1501576)
+ 
+- Dolfi S., Khedri Kh., Pacifici E., Group whose degree graph has three independent vertices, J. Algebra., 512 (2018), 66-80. [Link](https://doi.org/10.1016/j.jalgebra.2018.07.004)
+  
+- Khedri K., Characterization of finite groups whose linear divisible character degrees, (Preprint).
+- 
+- Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (In Progress).
+- 
+-  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, [Link](https://arxiv.org/pdf/2404.08727v1).
 
 
 
@@ -38,7 +42,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 
  ## Teaching
 
--Teaching Assistant,Isfahan University of Technology: Linear Algebra, Finite Group, Calculus 1,2.( sep 2016- July 2021)
+- Teaching Assistant,Isfahan University of Technology: Linear Algebra, Finite Group, Calculus 1,2.( sep 2016- July 2021)
 - Visiting Lecturer, Isfahan University of Technology: Vector Analysis. (Sep 2017-Jan 2018)
 - Visiting  Lecturer, Isfahan University: Calculus 1.(Sep 2021, Jan 2022 )
 - Visiting Lecturer,Farhangian University of Boushehr: History of Mathematics.(Jan 2011 - Jul 2011)
@@ -52,6 +56,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 - Guest Lecture:On the character degree graph of solvable groups,The $9^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran,  Amirkabir  University of Technology, Tehran, Iran(2017)
 -  Guest Lecture:Group whose degree graph has three independent vertices,The $10^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran, Yazd University, Yazd, Iran(2018)
 -The wiener index calculation of Porphyrin, The $9^th$ annual Student Conference on Nanotechnology, Tarbiat Modares University,Tehran, Iran(2012)
+
 
 
 
