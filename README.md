@@ -23,9 +23,9 @@ I am interested in applying mathematics to solve challenges in research areas re
 - Dolfi S., Khedri Kh., Pacifici E., Group whose degree graph has three independent vertices, J. Algebra., 512 (2018), 66-80. [Link](https://doi.org/10.1016/j.jalgebra.2018.07.004)
   
 - Khedri K., Characterization of finite groups whose linear divisible character degrees, (Preprint).
-- 
+ 
 - Rawassizadeh R., Khedri K., Pruning and quantization impact on graph neural networks, (In Progress).
-- 
+  
 -  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, [Link](https://arxiv.org/pdf/2404.08727v1).
 
 
