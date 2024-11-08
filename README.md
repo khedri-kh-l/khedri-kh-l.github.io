@@ -54,7 +54,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 
 
 
- ## <font color="blue">Conference Presentations</font>
+## <font color="blue">Research Profile</font>
 
  
 - Guest Lecture:On the character degree graph of solvable groups,The $9^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran,  Amirkabir  University of Technology, Tehran, Iran(2017)
