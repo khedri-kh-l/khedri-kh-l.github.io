@@ -5,7 +5,7 @@ I am a mathematician and an artificial intelligence researcher. I have a Ph.D. i
 I am interested in applying mathematics to solve challenges in research areas related to real-world applications. I have worked on various projects in Computer Vision, NLP, and Graph Neural Network. Recently, I finished the investigation of pruning and quantization impact on graph neural networks. Pruning is a technique to reduce the complexity and improve the efficiency of neural networks by removing unnecessary parameters or connections.
 
 
-## <font color="blue">Research Profile</font>
+## <font color="navy">Research Profile</font>
 - Graph Machine Learning
 - Geometric Deep Learning
 - Mathematical Molecular
