@@ -1,5 +1,11 @@
 ## <font color="steelblue">Research Profile</font>
 
+<font color="#0000FF">Bright blue text</font>
+<font color="#0066CC">Deep sky blue text</font>
+<font color="#4682B4">Royal blue text</font>
+<font color="#4169E1">Blue text</font>
+<font color="#0000A0">Midnight blue text</font>
+
 I am a mathematician and an artificial intelligence researcher. I have a Ph.D. in mathematics from Isfahan University of Technology, where I studied finite group theory. I also have a master's degree in mathematics from Tarbiat Modares University, where I worked on the chemical graph theory and Wiener index of graphs. I have been selected as an elite student by the National Elites Foundation of Iran and collaborated with researchers at the University of Florence.
 
 I am interested in applying mathematics to solve challenges in research areas related to real-world applications. I have worked on various projects in Computer Vision, NLP, and Graph Neural Network. Recently, I finished the investigation of pruning and quantization impact on graph neural networks. Pruning is a technique to reduce the complexity and improve the efficiency of neural networks by removing unnecessary parameters or connections.
@@ -12,7 +18,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 - AI Healthcare
 
 
-## <font color="blue">Education</font>
+## <font color="teal">Education</font>
 - Ph.D., Mathematics | Isfahan University of Technology (_September 2018_)
 - M.S., Mathematics | Tarbiat Modares University (_January 2011_)
 - B.S., Mathematics | Kashan University (_July 2006_)
