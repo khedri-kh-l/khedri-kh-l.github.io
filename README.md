@@ -43,7 +43,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 - Advising Experience: Undergraduate Senior Thesis Advisor, Isfahan University of Technology.(Sep 2019- Sep 2021)
 
   
- ## <font color="blue">Teaching</font>
+## <font color="blue">Teaching</font>
 
 - Teaching Assistant,Isfahan University of Technology: Linear Algebra, Finite Group, Calculus 1,2.( sep 2016- July 2021)
 - Visiting Lecturer, Isfahan University of Technology: Vector Analysis. (Sep 2017-Jan 2018)
@@ -54,7 +54,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 
 
 
-## <font color="blue">Research Profile</font>
+## <font color="blue">Conference Presentation/font>
 
  
 - Guest Lecture:On the character degree graph of solvable groups,The $9^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran,  Amirkabir  University of Technology, Tehran, Iran(2017)
