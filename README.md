@@ -1,4 +1,4 @@
-## <font color="blue">Research Profile</font>
+## <font color="steelblue">Research Profile</font>
 
 I am a mathematician and an artificial intelligence researcher. I have a Ph.D. in mathematics from Isfahan University of Technology, where I studied finite group theory. I also have a master's degree in mathematics from Tarbiat Modares University, where I worked on the chemical graph theory and Wiener index of graphs. I have been selected as an elite student by the National Elites Foundation of Iran and collaborated with researchers at the University of Florence.
 
