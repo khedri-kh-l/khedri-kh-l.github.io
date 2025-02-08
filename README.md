@@ -36,7 +36,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 
 ## <font color="steelblue">Academic Experience</font>
 
-- Editor: MLBook,Reza Rawassizadeh.(2024)
+- Editor: Machine Learning and Artificial Intelligence: Concepts, Algorithms, and Models,Reza Rawassizadeh.(2024)
 - Research Collaboration: Reza Rawassizadeh, Boston University, United States.(September 2023 - Present)
 - Postdoctoral Research Fellow INSF:Isfahan University of Thechnology,Isfahan, Iran.(May 2019 - May 2021)
 - Visiting Scholar: University of Florence,Italy. (April 2016 - Oct 2016)
