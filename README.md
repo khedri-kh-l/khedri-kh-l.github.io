@@ -59,7 +59,9 @@ I am interested in applying mathematics to solve challenges in research areas re
 
  
 - Guest Lecture:On the character degree graph of solvable groups,The $9^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran,  Amirkabir  University of Technology, Tehran, Iran(2017)
+  
 -  Guest Lecture:Group whose degree graph has three independent vertices,The $10^{th}$ Graph Theory and Algebraic Combinatorics Conference of Iran, Yazd University, Yazd, Iran(2018)
+  
 -The wiener index calculation of Porphyrin, The $9^th$ annual Student Conference on Nanotechnology, Tarbiat Modares University,Tehran, Iran(2012)
 
 
