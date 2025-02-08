@@ -34,7 +34,7 @@ I am interested in applying mathematics to solve challenges in research areas re
 -  Zhang X., Khedri K., Rawassizadeh R.,Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases, [Link](https://arxiv.org/pdf/2404.08727v1).
 
 
-## <font color="blue">Academic Experience</font>
+## <font color="steelblue">Academic Experience</font>
 
 - Editor: MLBook,Reza Rawassizadeh.(2024)
 - Research Collaboration: Reza Rawassizadeh, Boston University, United States.(September 2023 - Present)
